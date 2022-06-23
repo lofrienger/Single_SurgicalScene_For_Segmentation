@@ -1,4 +1,4 @@
-# SingleSynSeg
+# Single_SurgicalScene_For_Segmentation
 
 This is the Pytorch implementation for MICCAI2022 -
 
