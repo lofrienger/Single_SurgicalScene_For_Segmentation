@@ -69,5 +69,12 @@ Part of the codes are adapted from [robot-surgery-segmentation](https://github.c
 
 ## Citation
 ```
-TBD
+@misc{wang2022rethinking,
+    title={Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need},
+    author={An Wang and Mobarakol Islam and Mengya Xu and Hongliang Ren},
+    year={2022},
+    eprint={2206.11804},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 ```
