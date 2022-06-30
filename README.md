@@ -2,7 +2,7 @@
 
 This is the Pytorch implementation for MICCAI2022 -
 
-**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**
+[**Rethinking Surgical Instrument Segmentation: A Background Image Can Be All You Need**](https://arxiv.org/abs/2206.11804)
 
 An Wang*, Mobarakol Islam*, Mengya Xu, and Hongliang Ren**
 
