@@ -8,7 +8,7 @@ An Wang*, Mobarakol Islam*, Mengya Xu, and Hongliang Ren**
 
 *: First author; **: Corresponding author
 
-<span style="color:red;">***News***</span> - [Demo1](./demo/blending_demo_naive.ipynb) and [Demo2](./demo/demo_augblend.ipynb) are uploaded for better understanding!
+<span style="color:red;">***News***</span> - [Demo1](./demo/blending_demo_naive.ipynb) and [Demo2](./demo/demo_augblend.ipynb) and corresponding google colab [demo1](./demo/colab/blending_demo_naive.ipynb) and [demo2](./demo/colab/demo_augblend.ipynb) are uploaded for better understanding!
 
 > In this paper, we rethink the surgical instrument segmentation task and propose a one-to-many data generation solution that gets rid of the complicated and expensive process of data collection and annotation from robotic surgery. We only utilize a single surgical background tissue image and a few open-source instrument images as the seed images and apply multiple augmentation and blending techniques to synthesize amounts of image variations. In addition, we also introduce the chained augmentation mixing during training to further enhance the data diversities. The proposed approach can achieve decent surgical instrument segmentation performance compared with real dataset. Moreover, we also observe that our method can deal with novel instruments prediction in the deployment domain. We hope our inspiring results would encourage researchers to emphasize data-centric methods to overcome demanding deep learning limitations besides data shortage, such as class imbalance, domain adaptation, and incremental learning.
 
